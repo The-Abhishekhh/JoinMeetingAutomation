@@ -65,6 +65,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or issues, please contact:
-- Name: [Your Name]
-- Email: [your-email@example.com]
-- GitHub: [your-github-username](https://github.com/your-github-username)
+- Name: [Abhishek Kumar Singh]
+- Email: [abhikumar1324@gmail.com.com]
+- GitHub: (https://github.com/The-Abhishekhh)
